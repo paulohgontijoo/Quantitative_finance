@@ -12,7 +12,7 @@ azure-cognitiveservices-search-imagesearch==2.0.0
 azure-cognitiveservices-search-websearch==2.0.0
 azure-cognitiveservices-vision-computervision==0.5.0
 azure-common==1.1.25
-Babel==2.7.0
+Babel==2.9.1
 backcall==0.1.0
 backports.functools-lru-cache==1.6.1
 backports.os==0.1.1
